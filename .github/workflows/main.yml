@@ -1,4 +1,4 @@
-name: Jupyter
+name: Saturn
 on:
   push:
     branches: [ "main" ]
